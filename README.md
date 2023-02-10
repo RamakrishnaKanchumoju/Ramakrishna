@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/rama_krishna_05" target="blank"><img src="https://img.shields.io/twitter/follow/rama_krishna_05?logo=twitter&style=for-the-badge" alt="rama_krishna_05" /></a> </p>
 
+- 🔭 I’m currently learning frontend development 
+- 💬 Ask me about **HTML 5 & CSS 3**
 - 📫 How to reach me **Ramakrishnalegendary@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
